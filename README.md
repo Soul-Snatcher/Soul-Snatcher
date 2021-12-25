@@ -39,12 +39,11 @@
 
 
 
-<details>
-  [GitHub Stats]
+  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Soul-Snatcher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Soul-Snatcher&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [twitter]: https://twitter.com/RobinRo02734162
 [instagram]: https://www.instagram.com/s.o.u.l_s.n.a.t.c.h.e.r/
