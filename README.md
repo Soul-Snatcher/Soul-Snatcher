@@ -2,7 +2,7 @@
 
 ## I'm a Student , Developer , and Tech Enthusiastic!!
 
-- 🔭 I just launched my first Youtube Channel: [CodeArceus]
+- 🔭 I just launched my first Youtube Channel:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Create and Contribute more to Open Source Projects
